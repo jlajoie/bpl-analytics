@@ -1,0 +1,234 @@
+{
+    "match_duration": 573,
+    "average_round_length": 95.5,
+    "average_round_first_death": 61.13,
+    "round_wins": {
+        "team_one": 5,
+        "team_two": 1
+    },
+    "orbs": {
+        "first": {
+            "wins": 3,
+            "losses": 3,
+            "win_percentage": "50.00%",
+            "team_one": 2,
+            "team_two": 4
+        },
+        "team_one": 9,
+        "team_two": 11
+    },
+    "shards": {
+        "health": {
+            "team_one": 22,
+            "team_two": 28
+        },
+        "energy": {
+            "team_one": 10,
+            "team_two": 8
+        }
+    },
+    "rounds": {
+        "1": {
+            "winning_team": "team_one",
+            "duration": 60,
+            "orbs": {
+                "first": "team_one",
+                "team_one": 2,
+                "team_two": 0
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 1,
+                    "team_two": 2
+                },
+                "health": {
+                    "team_one": 5,
+                    "team_two": 1
+                }
+            }
+        },
+        "2": {
+            "winning_team": "team_one",
+            "duration": 96,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 2,
+                "team_two": 2
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 0,
+                    "team_two": 4
+                },
+                "health": {
+                    "team_one": 3,
+                    "team_two": 7
+                }
+            }
+        },
+        "3": {
+            "winning_team": "team_two",
+            "duration": 162,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 1,
+                "team_two": 3
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 0,
+                    "team_two": 0
+                },
+                "health": {
+                    "team_one": 6,
+                    "team_two": 6
+                }
+            }
+        },
+        "4": {
+            "winning_team": "team_one",
+            "duration": 47,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 1,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 0,
+                    "team_two": 2
+                },
+                "health": {
+                    "team_one": 1,
+                    "team_two": 3
+                }
+            }
+        },
+        "5": {
+            "winning_team": "team_one",
+            "duration": 78,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 2,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 3,
+                    "team_two": 0
+                },
+                "health": {
+                    "team_one": 2,
+                    "team_two": 4
+                }
+            }
+        },
+        "6": {
+            "winning_team": "team_one",
+            "duration": 130,
+            "orbs": {
+                "first": "team_one",
+                "team_one": 1,
+                "team_two": 4
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 6,
+                    "team_two": 0
+                },
+                "health": {
+                    "team_one": 5,
+                    "team_two": 7
+                }
+            }
+        }
+    },
+    "team_one": {
+        "Lum1nary": {
+            "Thorn": {
+                "score/s": "11.39",
+                "damageDone/s": "6.98",
+                "damageReceived/s": "6.52",
+                "healingDone/s": "2.19",
+                "healingReceived/s": "3.54",
+                "disablesDone/s": "2.22",
+                "disablesReceived/s": "1.23",
+                "energyGained/s": "2.86",
+                "energyUsed/s": "2.26",
+                "abilityUses/s": "0.78"
+            }
+        },
+        "Mini": {
+            "Ulric": {
+                "score/s": "11.20",
+                "damageDone/s": "4.36",
+                "damageReceived/s": "4.72",
+                "healingDone/s": "5.97",
+                "healingReceived/s": "2.83",
+                "disablesDone/s": "0.87",
+                "disablesReceived/s": "1.12",
+                "energyGained/s": "3.85",
+                "energyUsed/s": "3.02",
+                "abilityUses/s": "1.05"
+            }
+        },
+        "Ivar_100": {
+            "Taya": {
+                "score/s": "10.95",
+                "damageDone/s": "9.35",
+                "damageReceived/s": "4.65",
+                "healingDone/s": "0.67",
+                "healingReceived/s": "2.64",
+                "disablesDone/s": "0.93",
+                "disablesReceived/s": "1.01",
+                "energyGained/s": "3.65",
+                "energyUsed/s": "2.83",
+                "abilityUses/s": "1.01"
+            }
+        }
+    },
+    "team_two": {
+        "Xaynox": {
+            "Shifu": {
+                "score/s": "11.00",
+                "damageDone/s": "8.40",
+                "damageReceived/s": "9.49",
+                "healingDone/s": "2.01",
+                "healingReceived/s": "3.82",
+                "disablesDone/s": "0.60",
+                "disablesReceived/s": "1.36",
+                "energyGained/s": "4.48",
+                "energyUsed/s": "2.27",
+                "abilityUses/s": "1.12"
+            }
+        },
+        "randler#7453": {
+            "Lucie": {
+                "score/s": "9.75",
+                "damageDone/s": "2.79",
+                "damageReceived/s": "4.94",
+                "healingDone/s": "5.37",
+                "healingReceived/s": "2.06",
+                "disablesDone/s": "1.59",
+                "disablesReceived/s": "1.32",
+                "energyGained/s": "2.85",
+                "energyUsed/s": "2.25",
+                "abilityUses/s": "0.74"
+            }
+        },
+        "Verosk": {
+            "Iva": {
+                "score/s": "9.57",
+                "damageDone/s": "7.59",
+                "damageReceived/s": "6.55",
+                "healingDone/s": "0.74",
+                "healingReceived/s": "2.73",
+                "disablesDone/s": "1.24",
+                "disablesReceived/s": "1.41",
+                "energyGained/s": "3.87",
+                "energyUsed/s": "2.11",
+                "abilityUses/s": "0.98"
+            }
+        }
+    }
+}
