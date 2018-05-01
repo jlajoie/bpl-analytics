@@ -1,0 +1,215 @@
+{
+    "match_duration": 328,
+    "average_round_length": 65.6,
+    "average_round_first_death": 47.42,
+    "round_wins": {
+        "team_one": 0,
+        "team_two": 5
+    },
+    "orbs": {
+        "first": {
+            "wins": 2,
+            "losses": 3,
+            "win_percentage": "40.00%",
+            "team_one": 3,
+            "team_two": 2
+        },
+        "team_one": 4,
+        "team_two": 6
+    },
+    "shards": {
+        "health": {
+            "team_one": 13,
+            "team_two": 15
+        },
+        "energy": {
+            "team_one": 8,
+            "team_two": 9
+        }
+    },
+    "rounds": {
+        "1": {
+            "winning_team": "team_two",
+            "duration": 58,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 0,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 2,
+                    "team_two": 2
+                },
+                "health": {
+                    "team_one": 0,
+                    "team_two": 4
+                }
+            }
+        },
+        "2": {
+            "winning_team": "team_two",
+            "duration": 83,
+            "orbs": {
+                "first": "team_one",
+                "team_one": 1,
+                "team_two": 2
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 2,
+                    "team_two": 0
+                },
+                "health": {
+                    "team_one": 3,
+                    "team_two": 5
+                }
+            }
+        },
+        "3": {
+            "winning_team": "team_two",
+            "duration": 61,
+            "orbs": {
+                "first": "team_one",
+                "team_one": 1,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 4,
+                    "team_two": 2
+                },
+                "health": {
+                    "team_one": 4,
+                    "team_two": 2
+                }
+            }
+        },
+        "4": {
+            "winning_team": "team_two",
+            "duration": 53,
+            "orbs": {
+                "first": "team_two",
+                "team_one": 0,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 0,
+                    "team_two": 1
+                },
+                "health": {
+                    "team_one": 2,
+                    "team_two": 2
+                }
+            }
+        },
+        "5": {
+            "winning_team": "team_two",
+            "duration": 73,
+            "orbs": {
+                "first": "team_one",
+                "team_one": 2,
+                "team_two": 1
+            },
+            "shards": {
+                "energy": {
+                    "team_one": 0,
+                    "team_two": 4
+                },
+                "health": {
+                    "team_one": 4,
+                    "team_two": 2
+                }
+            }
+        }
+    },
+    "team_one": {
+        "dward0": {
+            "Zander": {
+                "score/s": "9.55",
+                "damageDone/s": "3.98",
+                "damageReceived/s": "6.38",
+                "healingDone/s": "4.97",
+                "healingReceived/s": "2.36",
+                "disablesDone/s": "0.59",
+                "disablesReceived/s": "1.45",
+                "energyGained/s": "3.94",
+                "energyUsed/s": "2.10",
+                "abilityUses/s": "1.30"
+            }
+        },
+        "FuzarkeR": {
+            "Bakko": {
+                "score/s": "10.22",
+                "damageDone/s": "6.78",
+                "damageReceived/s": "10.76",
+                "healingDone/s": "2.04",
+                "healingReceived/s": "2.51",
+                "disablesDone/s": "1.39",
+                "disablesReceived/s": "2.09",
+                "energyGained/s": "3.12",
+                "energyUsed/s": "2.03",
+                "abilityUses/s": "0.84"
+            }
+        },
+        "DarkFenix": {
+            "Jumong": {
+                "score/s": "12.31",
+                "damageDone/s": "10.46",
+                "damageReceived/s": "7.43",
+                "healingDone/s": "1.27",
+                "healingReceived/s": "2.79",
+                "disablesDone/s": "0.58",
+                "disablesReceived/s": "1.74",
+                "energyGained/s": "4.94",
+                "energyUsed/s": "3.93",
+                "abilityUses/s": "0.96"
+            }
+        }
+    },
+    "team_two": {
+        "Dudichies": {
+            "Thorn": {
+                "score/s": "14.38",
+                "damageDone/s": "9.58",
+                "damageReceived/s": "7.22",
+                "healingDone/s": "2.43",
+                "healingReceived/s": "4.14",
+                "disablesDone/s": "2.37",
+                "disablesReceived/s": "0.59",
+                "energyGained/s": "3.21",
+                "energyUsed/s": "2.59",
+                "abilityUses/s": "0.84"
+            }
+        },
+        "Faiman": {
+            "Blossom": {
+                "score/s": "13.79",
+                "damageDone/s": "5.20",
+                "damageReceived/s": "3.56",
+                "healingDone/s": "7.51",
+                "healingReceived/s": "2.52",
+                "disablesDone/s": "1.09",
+                "disablesReceived/s": "0.82",
+                "energyGained/s": "3.95",
+                "energyUsed/s": "1.75",
+                "abilityUses/s": "0.97"
+            }
+        },
+        "MegaTruckPorrudo": {
+            "Iva": {
+                "score/s": "11.02",
+                "damageDone/s": "9.03",
+                "damageReceived/s": "5.08",
+                "healingDone/s": "0.77",
+                "healingReceived/s": "2.61",
+                "disablesDone/s": "1.22",
+                "disablesReceived/s": "0.80",
+                "energyGained/s": "3.93",
+                "energyUsed/s": "1.98",
+                "abilityUses/s": "1.13"
+            }
+        }
+    }
+}
