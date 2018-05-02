@@ -1,4 +1,5 @@
 {
+    "telemetry_url": "https://cdn.gamelockerapp.com/stunlock-studios-battlerite/global/2018/04/28/21/09/61ec57c6-4b28-11e8-94d3-0a5864602bae-telemetry.json",
     "match_duration": 314,
     "average_round_length": 62.8,
     "average_round_first_death": 41.95,
@@ -6,122 +7,169 @@
         "team_one": 5,
         "team_two": 0
     },
+    "comebacks": 1,
+    "crosskills": 2,
+    "rounds": {
+        "1": {
+            "winning_team": "team_one",
+            "duration": 75,
+            "orbs": {
+                "total": 2,
+                "team_one": 1,
+                "team_two": 1,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 4,
+                    "team_one": 2,
+                    "team_two": 2
+                },
+                "health": {
+                    "total": 6,
+                    "team_one": 0,
+                    "team_two": 6
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "2": {
+            "winning_team": "team_one",
+            "duration": 49,
+            "orbs": {
+                "total": 2,
+                "team_one": 2,
+                "team_two": 0,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 1,
+                    "team_two": 1
+                },
+                "health": {
+                    "total": 4,
+                    "team_one": 2,
+                    "team_two": 2
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "3": {
+            "winning_team": "team_one",
+            "duration": 62,
+            "orbs": {
+                "total": 2,
+                "team_one": 1,
+                "team_two": 1,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 1,
+                    "team_two": 1
+                },
+                "health": {
+                    "total": 7,
+                    "team_one": 5,
+                    "team_two": 2
+                }
+            },
+            "death_order": [
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        "4": {
+            "winning_team": "team_one",
+            "duration": 64,
+            "orbs": {
+                "total": 2,
+                "team_one": 1,
+                "team_two": 1,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 0,
+                    "team_two": 2
+                },
+                "health": {
+                    "total": 6,
+                    "team_one": 4,
+                    "team_two": 2
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "5": {
+            "winning_team": "team_one",
+            "duration": 64,
+            "orbs": {
+                "total": 2,
+                "team_one": 1,
+                "team_two": 1,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 0,
+                    "team_two": 2
+                },
+                "health": {
+                    "total": 10,
+                    "team_one": 7,
+                    "team_two": 3
+                }
+            },
+            "death_order": [
+                2,
+                1,
+                2,
+                2
+            ]
+        }
+    },
     "orbs": {
+        "total": 10,
+        "team_one": 6,
+        "team_two": 4,
         "first": {
             "wins": 2,
             "losses": 3,
             "win_percentage": "40.00%",
             "team_one": 2,
             "team_two": 3
-        },
-        "team_one": 6,
-        "team_two": 4
+        }
     },
     "shards": {
         "health": {
+            "total": 33,
             "team_one": 18,
             "team_two": 15
         },
         "energy": {
+            "total": 12,
             "team_one": 4,
             "team_two": 8
-        }
-    },
-    "rounds": {
-        "1": {
-            "winning_team": "team_one",
-            "duration": 75,
-            "orbs": {
-                "first": "team_two",
-                "team_one": 1,
-                "team_two": 1
-            },
-            "shards": {
-                "energy": {
-                    "team_one": 2,
-                    "team_two": 2
-                },
-                "health": {
-                    "team_one": 0,
-                    "team_two": 6
-                }
-            }
-        },
-        "2": {
-            "winning_team": "team_one",
-            "duration": 49,
-            "orbs": {
-                "first": "team_one",
-                "team_one": 2,
-                "team_two": 0
-            },
-            "shards": {
-                "energy": {
-                    "team_one": 1,
-                    "team_two": 1
-                },
-                "health": {
-                    "team_one": 2,
-                    "team_two": 2
-                }
-            }
-        },
-        "3": {
-            "winning_team": "team_one",
-            "duration": 62,
-            "orbs": {
-                "first": "team_two",
-                "team_one": 1,
-                "team_two": 1
-            },
-            "shards": {
-                "energy": {
-                    "team_one": 1,
-                    "team_two": 1
-                },
-                "health": {
-                    "team_one": 5,
-                    "team_two": 2
-                }
-            }
-        },
-        "4": {
-            "winning_team": "team_one",
-            "duration": 64,
-            "orbs": {
-                "first": "team_two",
-                "team_one": 1,
-                "team_two": 1
-            },
-            "shards": {
-                "energy": {
-                    "team_one": 0,
-                    "team_two": 2
-                },
-                "health": {
-                    "team_one": 4,
-                    "team_two": 2
-                }
-            }
-        },
-        "5": {
-            "winning_team": "team_one",
-            "duration": 64,
-            "orbs": {
-                "first": "team_one",
-                "team_one": 1,
-                "team_two": 1
-            },
-            "shards": {
-                "energy": {
-                    "team_one": 0,
-                    "team_two": 2
-                },
-                "health": {
-                    "team_one": 7,
-                    "team_two": 3
-                }
-            }
         }
     },
     "team_one": {
