@@ -201,88 +201,220 @@
     "team_one": {
         "Lukks": {
             "Blossom": {
-                "score/s": "12.33",
-                "damageDone/s": "4.62",
-                "damageReceived/s": "2.78",
-                "healingDone/s": "6.83",
-                "healingReceived/s": "2.14",
-                "disablesDone/s": "0.87",
-                "disablesReceived/s": "0.38",
-                "energyGained/s": "2.53",
-                "energyUsed/s": "0.61",
-                "abilityUses/s": "0.89"
+                "battlerites": [
+                    "Healthful Bark",
+                    "Hop and Skip!",
+                    "Kindhearted",
+                    "Nature's Cycle",
+                    "Weakening Pitch"
+                ],
+                "average": {
+                    "score/s": "12.33",
+                    "damageDone/s": "4.62",
+                    "damageReceived/s": "2.78",
+                    "healingDone/s": "6.83",
+                    "healingReceived/s": "2.14",
+                    "disablesDone/s": "0.87",
+                    "disablesReceived/s": "0.38",
+                    "energyGained/s": "2.53",
+                    "energyUsed/s": "0.61",
+                    "abilityUses/s": "0.89"
+                },
+                "total": {
+                    "score": 8641,
+                    "damageDone": 3239,
+                    "damageReceived": 1951,
+                    "healingDone": 4790,
+                    "healingReceived": 1499,
+                    "disablesDone": 611,
+                    "disablesReceived": 269,
+                    "energyGained": 1775,
+                    "energyUsed": 425,
+                    "abilityUses": 623,
+                    "timeAlive": 701
+                }
             }
         },
         "Veronesi": {
             "Freya": {
-                "score/s": "12.46",
-                "damageDone/s": "7.79",
-                "damageReceived/s": "7.57",
-                "healingDone/s": "3.05",
-                "healingReceived/s": "3.41",
-                "disablesDone/s": "1.62",
-                "disablesReceived/s": "0.98",
-                "energyGained/s": "3.80",
-                "energyUsed/s": "3.34",
-                "abilityUses/s": "1.22"
+                "battlerites": [
+                    "Electric Conduction",
+                    "Lightning Rod",
+                    "Overcharge",
+                    "Rolling Thunder",
+                    "Twin Hammers"
+                ],
+                "average": {
+                    "score/s": "12.46",
+                    "damageDone/s": "7.79",
+                    "damageReceived/s": "7.57",
+                    "healingDone/s": "3.05",
+                    "healingReceived/s": "3.41",
+                    "disablesDone/s": "1.62",
+                    "disablesReceived/s": "0.98",
+                    "energyGained/s": "3.80",
+                    "energyUsed/s": "3.34",
+                    "abilityUses/s": "1.22"
+                },
+                "total": {
+                    "score": 7838,
+                    "damageDone": 4900,
+                    "damageReceived": 4759,
+                    "healingDone": 1921,
+                    "healingReceived": 2145,
+                    "disablesDone": 1017,
+                    "disablesReceived": 617,
+                    "energyGained": 2389,
+                    "energyUsed": 2100,
+                    "abilityUses": 766,
+                    "timeAlive": 629
+                }
             }
         },
         "ZeeQ": {
             "Ashka": {
-                "score/s": "10.52",
-                "damageDone/s": "9.28",
-                "damageReceived/s": "3.82",
-                "healingDone/s": "0.00",
-                "healingReceived/s": "2.67",
-                "disablesDone/s": "1.24",
-                "disablesReceived/s": "0.70",
-                "energyGained/s": "3.59",
-                "energyUsed/s": "2.78",
-                "abilityUses/s": "0.89"
+                "battlerites": [
+                    "Blaze",
+                    "Conflagration",
+                    "Heat",
+                    "Inspiration",
+                    "Magma"
+                ],
+                "average": {
+                    "score/s": "10.52",
+                    "damageDone/s": "9.28",
+                    "damageReceived/s": "3.82",
+                    "healingDone/s": "0.00",
+                    "healingReceived/s": "2.67",
+                    "disablesDone/s": "1.24",
+                    "disablesReceived/s": "0.70",
+                    "energyGained/s": "3.59",
+                    "energyUsed/s": "2.78",
+                    "abilityUses/s": "0.89"
+                },
+                "total": {
+                    "score": 7481,
+                    "damageDone": 6598,
+                    "damageReceived": 2715,
+                    "healingDone": 0,
+                    "healingReceived": 1901,
+                    "disablesDone": 883,
+                    "disablesReceived": 495,
+                    "energyGained": 2553,
+                    "energyUsed": 1975,
+                    "abilityUses": 632,
+                    "timeAlive": 711
+                }
             }
         }
     },
     "team_two": {
         "dward0": {
             "Zander": {
-                "score/s": "10.29",
-                "damageDone/s": "3.26",
-                "damageReceived/s": "5.16",
-                "healingDone/s": "6.59",
-                "healingReceived/s": "2.80",
-                "disablesDone/s": "0.44",
-                "disablesReceived/s": "0.82",
-                "energyGained/s": "3.35",
-                "energyUsed/s": "2.45",
-                "abilityUses/s": "1.19"
+                "battlerites": [
+                    "Arcane Conductor",
+                    "Lead Astray",
+                    "Phantasmagoria",
+                    "Showdown",
+                    "Stacked Deck"
+                ],
+                "average": {
+                    "score/s": "10.29",
+                    "damageDone/s": "3.26",
+                    "damageReceived/s": "5.16",
+                    "healingDone/s": "6.59",
+                    "healingReceived/s": "2.80",
+                    "disablesDone/s": "0.44",
+                    "disablesReceived/s": "0.82",
+                    "energyGained/s": "3.35",
+                    "energyUsed/s": "2.45",
+                    "abilityUses/s": "1.19"
+                },
+                "total": {
+                    "score": 6811,
+                    "damageDone": 2157,
+                    "damageReceived": 3419,
+                    "healingDone": 4363,
+                    "healingReceived": 1854,
+                    "disablesDone": 291,
+                    "disablesReceived": 542,
+                    "energyGained": 2220,
+                    "energyUsed": 1625,
+                    "abilityUses": 785,
+                    "timeAlive": 662
+                }
             }
         },
         "FuzarkeR": {
             "Freya": {
-                "score/s": "9.29",
-                "damageDone/s": "6.05",
-                "damageReceived/s": "7.77",
-                "healingDone/s": "2.04",
-                "healingReceived/s": "2.49",
-                "disablesDone/s": "1.20",
-                "disablesReceived/s": "1.47",
-                "energyGained/s": "2.77",
-                "energyUsed/s": "2.43",
-                "abilityUses/s": "0.96"
+                "battlerites": [
+                    "Electric Conduction",
+                    "Lightning Rod",
+                    "Rolling Thunder",
+                    "Tempest",
+                    "Thundering Spring"
+                ],
+                "average": {
+                    "score/s": "9.29",
+                    "damageDone/s": "6.05",
+                    "damageReceived/s": "7.77",
+                    "healingDone/s": "2.04",
+                    "healingReceived/s": "2.49",
+                    "disablesDone/s": "1.20",
+                    "disablesReceived/s": "1.47",
+                    "energyGained/s": "2.77",
+                    "energyUsed/s": "2.43",
+                    "abilityUses/s": "0.96"
+                },
+                "total": {
+                    "score": 6225,
+                    "damageDone": 4052,
+                    "damageReceived": 5209,
+                    "healingDone": 1368,
+                    "healingReceived": 1665,
+                    "disablesDone": 805,
+                    "disablesReceived": 984,
+                    "energyGained": 1854,
+                    "energyUsed": 1625,
+                    "abilityUses": 643,
+                    "timeAlive": 670
+                }
             }
         },
         "DarkFenix": {
             "Varesh": {
-                "score/s": "9.38",
-                "damageDone/s": "7.08",
-                "damageReceived/s": "6.60",
-                "healingDone/s": "1.89",
-                "healingReceived/s": "2.98",
-                "disablesDone/s": "0.41",
-                "disablesReceived/s": "1.41",
-                "energyGained/s": "3.75",
-                "energyUsed/s": "3.30",
-                "abilityUses/s": "0.99"
+                "battlerites": [
+                    "Celerity",
+                    "Devastation",
+                    "Inhibitor",
+                    "Inspiration",
+                    "Wonder"
+                ],
+                "average": {
+                    "score/s": "9.38",
+                    "damageDone/s": "7.08",
+                    "damageReceived/s": "6.60",
+                    "healingDone/s": "1.89",
+                    "healingReceived/s": "2.98",
+                    "disablesDone/s": "0.41",
+                    "disablesReceived/s": "1.41",
+                    "energyGained/s": "3.75",
+                    "energyUsed/s": "3.30",
+                    "abilityUses/s": "0.99"
+                },
+                "total": {
+                    "score": 6545,
+                    "damageDone": 4940,
+                    "damageReceived": 4610,
+                    "healingDone": 1320,
+                    "healingReceived": 2079,
+                    "disablesDone": 285,
+                    "disablesReceived": 985,
+                    "energyGained": 2620,
+                    "energyUsed": 2300,
+                    "abilityUses": 690,
+                    "timeAlive": 698
+                }
             }
         }
     }

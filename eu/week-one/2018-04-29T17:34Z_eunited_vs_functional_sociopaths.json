@@ -228,88 +228,220 @@
     "team_one": {
         "eU_Naraga": {
             "Blossom": {
-                "score/s": "11.87",
-                "damageDone/s": "3.66",
-                "damageReceived/s": "4.27",
-                "healingDone/s": "7.43",
-                "healingReceived/s": "2.08",
-                "disablesDone/s": "0.77",
-                "disablesReceived/s": "1.35",
-                "energyGained/s": "3.09",
-                "energyUsed/s": "0.61",
-                "abilityUses/s": "0.84"
+                "battlerites": [
+                    "Healthful Bark",
+                    "Hop and Skip!",
+                    "Kindhearted",
+                    "Pollen",
+                    "Weakening Pitch"
+                ],
+                "average": {
+                    "score/s": "11.87",
+                    "damageDone/s": "3.66",
+                    "damageReceived/s": "4.27",
+                    "healingDone/s": "7.43",
+                    "healingReceived/s": "2.08",
+                    "disablesDone/s": "0.77",
+                    "disablesReceived/s": "1.35",
+                    "energyGained/s": "3.09",
+                    "energyUsed/s": "0.61",
+                    "abilityUses/s": "0.84"
+                },
+                "total": {
+                    "score": 8701,
+                    "damageDone": 2686,
+                    "damageReceived": 3132,
+                    "healingDone": 5448,
+                    "healingReceived": 1526,
+                    "disablesDone": 567,
+                    "disablesReceived": 990,
+                    "energyGained": 2266,
+                    "energyUsed": 450,
+                    "abilityUses": 616,
+                    "timeAlive": 733
+                }
             }
         },
         "eU_Xqkfuu": {
             "Ezmo": {
-                "score/s": "10.13",
-                "damageDone/s": "9.00",
-                "damageReceived/s": "4.77",
-                "healingDone/s": "0.24",
-                "healingReceived/s": "2.58",
-                "disablesDone/s": "0.89",
-                "disablesReceived/s": "1.23",
-                "energyGained/s": "4.01",
-                "energyUsed/s": "3.25",
-                "abilityUses/s": "1.69"
+                "battlerites": [
+                    "Disruption",
+                    "Grimoire of Death",
+                    "Undermine",
+                    "Warlock's Grip",
+                    "Whizz"
+                ],
+                "average": {
+                    "score/s": "10.13",
+                    "damageDone/s": "9.00",
+                    "damageReceived/s": "4.77",
+                    "healingDone/s": "0.24",
+                    "healingReceived/s": "2.58",
+                    "disablesDone/s": "0.89",
+                    "disablesReceived/s": "1.23",
+                    "energyGained/s": "4.01",
+                    "energyUsed/s": "3.25",
+                    "abilityUses/s": "1.69"
+                },
+                "total": {
+                    "score": 7088,
+                    "damageDone": 6297,
+                    "damageReceived": 3341,
+                    "healingDone": 166,
+                    "healingReceived": 1805,
+                    "disablesDone": 622,
+                    "disablesReceived": 861,
+                    "energyGained": 2808,
+                    "energyUsed": 2275,
+                    "abilityUses": 1180,
+                    "timeAlive": 700
+                }
             }
         },
         "eU_Srymea": {
             "Bakko": {
-                "score/s": "10.04",
-                "damageDone/s": "6.67",
-                "damageReceived/s": "9.62",
-                "healingDone/s": "2.41",
-                "healingReceived/s": "4.72",
-                "disablesDone/s": "0.96",
-                "disablesReceived/s": "1.58",
-                "energyGained/s": "3.12",
-                "energyUsed/s": "2.35",
-                "abilityUses/s": "0.84"
+                "battlerites": [
+                    "Adrenaline Slam",
+                    "Bravery",
+                    "Mobile Defence",
+                    "Shield Bash",
+                    "The Red Axe"
+                ],
+                "average": {
+                    "score/s": "10.04",
+                    "damageDone/s": "6.67",
+                    "damageReceived/s": "9.62",
+                    "healingDone/s": "2.41",
+                    "healingReceived/s": "4.72",
+                    "disablesDone/s": "0.96",
+                    "disablesReceived/s": "1.58",
+                    "energyGained/s": "3.12",
+                    "energyUsed/s": "2.35",
+                    "abilityUses/s": "0.84"
+                },
+                "total": {
+                    "score": 6835,
+                    "damageDone": 4541,
+                    "damageReceived": 6550,
+                    "healingDone": 1641,
+                    "healingReceived": 3213,
+                    "disablesDone": 653,
+                    "disablesReceived": 1077,
+                    "energyGained": 2122,
+                    "energyUsed": 1600,
+                    "abilityUses": 574,
+                    "timeAlive": 681
+                }
             }
         }
     },
     "team_two": {
         "Xaynox": {
             "Thorn": {
-                "score/s": "13.66",
-                "damageDone/s": "9.56",
-                "damageReceived/s": "8.21",
-                "healingDone/s": "2.47",
-                "healingReceived/s": "4.77",
-                "disablesDone/s": "1.63",
-                "disablesReceived/s": "1.03",
-                "energyGained/s": "3.30",
-                "energyUsed/s": "2.41",
-                "abilityUses/s": "0.86"
+                "battlerites": [
+                    "Critical Backlash",
+                    "Impaling Roots",
+                    "Lurker",
+                    "Neurotoxin",
+                    "Regrowth"
+                ],
+                "average": {
+                    "score/s": "13.66",
+                    "damageDone/s": "9.56",
+                    "damageReceived/s": "8.21",
+                    "healingDone/s": "2.47",
+                    "healingReceived/s": "4.77",
+                    "disablesDone/s": "1.63",
+                    "disablesReceived/s": "1.03",
+                    "energyGained/s": "3.30",
+                    "energyUsed/s": "2.41",
+                    "abilityUses/s": "0.86"
+                },
+                "total": {
+                    "score": 9479,
+                    "damageDone": 6633,
+                    "damageReceived": 5701,
+                    "healingDone": 1712,
+                    "healingReceived": 3310,
+                    "disablesDone": 1130,
+                    "disablesReceived": 718,
+                    "energyGained": 2290,
+                    "energyUsed": 1675,
+                    "abilityUses": 597,
+                    "timeAlive": 694
+                }
             }
         },
         "randler#7453": {
             "Pestilus": {
-                "score/s": "13.13",
-                "damageDone/s": "4.34",
-                "damageReceived/s": "3.49",
-                "healingDone/s": "7.33",
-                "healingReceived/s": "2.48",
-                "disablesDone/s": "1.45",
-                "disablesReceived/s": "0.62",
-                "energyGained/s": "3.04",
-                "energyUsed/s": "0.95",
-                "abilityUses/s": "1.24"
+                "battlerites": [
+                    "Blood Leecher",
+                    "Egg Carrier",
+                    "Hive Mind",
+                    "Spiderling Venom",
+                    "Swarm Queen"
+                ],
+                "average": {
+                    "score/s": "13.13",
+                    "damageDone/s": "4.34",
+                    "damageReceived/s": "3.49",
+                    "healingDone/s": "7.33",
+                    "healingReceived/s": "2.48",
+                    "disablesDone/s": "1.45",
+                    "disablesReceived/s": "0.62",
+                    "energyGained/s": "3.04",
+                    "energyUsed/s": "0.95",
+                    "abilityUses/s": "1.24"
+                },
+                "total": {
+                    "score": 9648,
+                    "damageDone": 3192,
+                    "damageReceived": 2563,
+                    "healingDone": 5388,
+                    "healingReceived": 1821,
+                    "disablesDone": 1068,
+                    "disablesReceived": 459,
+                    "energyGained": 2232,
+                    "energyUsed": 700,
+                    "abilityUses": 910,
+                    "timeAlive": 735
+                }
             }
         },
         "Verosk": {
             "Iva": {
-                "score/s": "9.37",
-                "damageDone/s": "7.72",
-                "damageReceived/s": "5.24",
-                "healingDone/s": "0.63",
-                "healingReceived/s": "2.93",
-                "disablesDone/s": "1.01",
-                "disablesReceived/s": "0.92",
-                "energyGained/s": "4.00",
-                "energyUsed/s": "2.77",
-                "abilityUses/s": "1.04"
+                "battlerites": [
+                    "Boom!",
+                    "Conductor",
+                    "EMP",
+                    "Rocket Boosters",
+                    "Tractor Pulse"
+                ],
+                "average": {
+                    "score/s": "9.37",
+                    "damageDone/s": "7.72",
+                    "damageReceived/s": "5.24",
+                    "healingDone/s": "0.63",
+                    "healingReceived/s": "2.93",
+                    "disablesDone/s": "1.01",
+                    "disablesReceived/s": "0.92",
+                    "energyGained/s": "4.00",
+                    "energyUsed/s": "2.77",
+                    "abilityUses/s": "1.04"
+                },
+                "total": {
+                    "score": 6753,
+                    "damageDone": 5566,
+                    "damageReceived": 3776,
+                    "healingDone": 457,
+                    "healingReceived": 2116,
+                    "disablesDone": 730,
+                    "disablesReceived": 665,
+                    "energyGained": 2883,
+                    "energyUsed": 2000,
+                    "abilityUses": 749,
+                    "timeAlive": 721
+                }
             }
         }
     }

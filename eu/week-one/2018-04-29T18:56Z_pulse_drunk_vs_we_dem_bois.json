@@ -201,88 +201,220 @@
     "team_one": {
         "bbiceps-": {
             "Zander": {
-                "score/s": "9.95",
-                "damageDone/s": "2.42",
-                "damageReceived/s": "4.40",
-                "healingDone/s": "7.30",
-                "healingReceived/s": "2.41",
-                "disablesDone/s": "0.23",
-                "disablesReceived/s": "0.95",
-                "energyGained/s": "3.68",
-                "energyUsed/s": "3.21",
-                "abilityUses/s": "1.22"
+                "battlerites": [
+                    "Arcane Conductor",
+                    "Around the World",
+                    "Heart Restoration",
+                    "Lead Astray",
+                    "Showdown"
+                ],
+                "average": {
+                    "score/s": "9.95",
+                    "damageDone/s": "2.42",
+                    "damageReceived/s": "4.40",
+                    "healingDone/s": "7.30",
+                    "healingReceived/s": "2.41",
+                    "disablesDone/s": "0.23",
+                    "disablesReceived/s": "0.95",
+                    "energyGained/s": "3.68",
+                    "energyUsed/s": "3.21",
+                    "abilityUses/s": "1.22"
+                },
+                "total": {
+                    "score": 6657,
+                    "damageDone": 1618,
+                    "damageReceived": 2941,
+                    "healingDone": 4886,
+                    "healingReceived": 1610,
+                    "disablesDone": 151,
+                    "disablesReceived": 638,
+                    "energyGained": 2462,
+                    "energyUsed": 2150,
+                    "abilityUses": 817,
+                    "timeAlive": 669
+                }
             }
         },
         "GeekishNerd": {
             "Jade": {
-                "score/s": "9.29",
-                "damageDone/s": "7.68",
-                "damageReceived/s": "5.80",
-                "healingDone/s": "0.34",
-                "healingReceived/s": "3.04",
-                "disablesDone/s": "1.26",
-                "disablesReceived/s": "1.43",
-                "energyGained/s": "3.82",
-                "energyUsed/s": "1.28",
-                "abilityUses/s": "1.85"
+                "battlerites": [
+                    "Ambush",
+                    "Concussion Bomb",
+                    "Deadly Focus",
+                    "Desperado",
+                    "Surprise Shot"
+                ],
+                "average": {
+                    "score/s": "9.29",
+                    "damageDone/s": "7.68",
+                    "damageReceived/s": "5.80",
+                    "healingDone/s": "0.34",
+                    "healingReceived/s": "3.04",
+                    "disablesDone/s": "1.26",
+                    "disablesReceived/s": "1.43",
+                    "energyGained/s": "3.82",
+                    "energyUsed/s": "1.28",
+                    "abilityUses/s": "1.85"
+                },
+                "total": {
+                    "score": 5627,
+                    "damageDone": 4654,
+                    "damageReceived": 3512,
+                    "healingDone": 209,
+                    "healingReceived": 1840,
+                    "disablesDone": 764,
+                    "disablesReceived": 869,
+                    "energyGained": 2312,
+                    "energyUsed": 775,
+                    "abilityUses": 1119,
+                    "timeAlive": 606
+                }
             }
         },
         "séfrodaud": {
             "Thorn": {
-                "score/s": "11.95",
-                "damageDone/s": "7.85",
-                "damageReceived/s": "8.85",
-                "healingDone/s": "2.44",
-                "healingReceived/s": "4.17",
-                "disablesDone/s": "1.65",
-                "disablesReceived/s": "1.21",
-                "energyGained/s": "2.99",
-                "energyUsed/s": "2.26",
-                "abilityUses/s": "0.91"
+                "battlerites": [
+                    "Impaling Roots",
+                    "Lurker",
+                    "Neurotoxin",
+                    "Regrowth",
+                    "Whiplash"
+                ],
+                "average": {
+                    "score/s": "11.95",
+                    "damageDone/s": "7.85",
+                    "damageReceived/s": "8.85",
+                    "healingDone/s": "2.44",
+                    "healingReceived/s": "4.17",
+                    "disablesDone/s": "1.65",
+                    "disablesReceived/s": "1.21",
+                    "energyGained/s": "2.99",
+                    "energyUsed/s": "2.26",
+                    "abilityUses/s": "0.91"
+                },
+                "total": {
+                    "score": 6884,
+                    "damageDone": 4524,
+                    "damageReceived": 5099,
+                    "healingDone": 1407,
+                    "healingReceived": 2402,
+                    "disablesDone": 953,
+                    "disablesReceived": 699,
+                    "energyGained": 1723,
+                    "energyUsed": 1300,
+                    "abilityUses": 527,
+                    "timeAlive": 576
+                }
             }
         }
     },
     "team_two": {
         "Bloodsassin": {
             "Jumong": {
-                "score/s": "12.51",
-                "damageDone/s": "10.37",
-                "damageReceived/s": "4.83",
-                "healingDone/s": "0.82",
-                "healingReceived/s": "3.19",
-                "disablesDone/s": "1.32",
-                "disablesReceived/s": "1.19",
-                "energyGained/s": "4.00",
-                "energyUsed/s": "3.38",
-                "abilityUses/s": "0.97"
+                "battlerites": [
+                    "Arrow Storm",
+                    "Death Mark",
+                    "Disabling Trap",
+                    "Perfect Shot",
+                    "Trapper"
+                ],
+                "average": {
+                    "score/s": "12.51",
+                    "damageDone/s": "10.37",
+                    "damageReceived/s": "4.83",
+                    "healingDone/s": "0.82",
+                    "healingReceived/s": "3.19",
+                    "disablesDone/s": "1.32",
+                    "disablesReceived/s": "1.19",
+                    "energyGained/s": "4.00",
+                    "energyUsed/s": "3.38",
+                    "abilityUses/s": "0.97"
+                },
+                "total": {
+                    "score": 8609,
+                    "damageDone": 7137,
+                    "damageReceived": 3322,
+                    "healingDone": 561,
+                    "healingReceived": 2195,
+                    "disablesDone": 909,
+                    "disablesReceived": 819,
+                    "energyGained": 2749,
+                    "energyUsed": 2325,
+                    "abilityUses": 664,
+                    "timeAlive": 688
+                }
             }
         },
         "bewz": {
             "Freya": {
-                "score/s": "10.40",
-                "damageDone/s": "7.07",
-                "damageReceived/s": "7.46",
-                "healingDone/s": "2.16",
-                "healingReceived/s": "2.83",
-                "disablesDone/s": "1.17",
-                "disablesReceived/s": "0.95",
-                "energyGained/s": "3.53",
-                "energyUsed/s": "2.77",
-                "abilityUses/s": "1.05"
+                "battlerites": [
+                    "Electric Conduction",
+                    "Lightning Rod",
+                    "Rolling Thunder",
+                    "Tempest",
+                    "Thundering Spring"
+                ],
+                "average": {
+                    "score/s": "10.40",
+                    "damageDone/s": "7.07",
+                    "damageReceived/s": "7.46",
+                    "healingDone/s": "2.16",
+                    "healingReceived/s": "2.83",
+                    "disablesDone/s": "1.17",
+                    "disablesReceived/s": "0.95",
+                    "energyGained/s": "3.53",
+                    "energyUsed/s": "2.77",
+                    "abilityUses/s": "1.05"
+                },
+                "total": {
+                    "score": 6281,
+                    "damageDone": 4271,
+                    "damageReceived": 4508,
+                    "healingDone": 1302,
+                    "healingReceived": 1710,
+                    "disablesDone": 708,
+                    "disablesReceived": 575,
+                    "energyGained": 2131,
+                    "energyUsed": 1675,
+                    "abilityUses": 633,
+                    "timeAlive": 604
+                }
             }
         },
         "loreo": {
             "Lucie": {
-                "score/s": "8.80",
-                "damageDone/s": "2.68",
-                "damageReceived/s": "2.77",
-                "healingDone/s": "5.27",
-                "healingReceived/s": "1.68",
-                "disablesDone/s": "0.85",
-                "disablesReceived/s": "0.68",
-                "energyGained/s": "2.79",
-                "energyUsed/s": "2.16",
-                "abilityUses/s": "0.79"
+                "battlerites": [
+                    "Alacrity",
+                    "Companion Potion",
+                    "Stimulant",
+                    "Swift Roll",
+                    "Weakening Toxin"
+                ],
+                "average": {
+                    "score/s": "8.80",
+                    "damageDone/s": "2.68",
+                    "damageReceived/s": "2.77",
+                    "healingDone/s": "5.27",
+                    "healingReceived/s": "1.68",
+                    "disablesDone/s": "0.85",
+                    "disablesReceived/s": "0.68",
+                    "energyGained/s": "2.79",
+                    "energyUsed/s": "2.16",
+                    "abilityUses/s": "0.79"
+                },
+                "total": {
+                    "score": 6110,
+                    "damageDone": 1862,
+                    "damageReceived": 1924,
+                    "healingDone": 3658,
+                    "healingReceived": 1164,
+                    "disablesDone": 589,
+                    "disablesReceived": 474,
+                    "energyGained": 1937,
+                    "energyUsed": 1500,
+                    "abilityUses": 549,
+                    "timeAlive": 694
+                }
             }
         }
     }

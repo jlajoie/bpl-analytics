@@ -231,88 +231,220 @@
     "team_one": {
         "Lum1nary": {
             "Thorn": {
-                "score/s": "11.75",
-                "damageDone/s": "7.21",
-                "damageReceived/s": "7.20",
-                "healingDone/s": "2.56",
-                "healingReceived/s": "3.67",
-                "disablesDone/s": "1.98",
-                "disablesReceived/s": "0.82",
-                "energyGained/s": "2.73",
-                "energyUsed/s": "2.22",
-                "abilityUses/s": "0.78"
+                "battlerites": [
+                    "Critical Backlash",
+                    "Grounding Grasp",
+                    "Lurker",
+                    "Neurotoxin",
+                    "Parasitic Stems"
+                ],
+                "average": {
+                    "score/s": "11.75",
+                    "damageDone/s": "7.21",
+                    "damageReceived/s": "7.20",
+                    "healingDone/s": "2.56",
+                    "healingReceived/s": "3.67",
+                    "disablesDone/s": "1.98",
+                    "disablesReceived/s": "0.82",
+                    "energyGained/s": "2.73",
+                    "energyUsed/s": "2.22",
+                    "abilityUses/s": "0.78"
+                },
+                "total": {
+                    "score": 8463,
+                    "damageDone": 5188,
+                    "damageReceived": 5186,
+                    "healingDone": 1844,
+                    "healingReceived": 2646,
+                    "disablesDone": 1429,
+                    "disablesReceived": 591,
+                    "energyGained": 1969,
+                    "energyUsed": 1600,
+                    "abilityUses": 562,
+                    "timeAlive": 720
+                }
             }
         },
         "Mini": {
             "Ulric": {
-                "score/s": "11.78",
-                "damageDone/s": "4.53",
-                "damageReceived/s": "5.78",
-                "healingDone/s": "6.62",
-                "healingReceived/s": "3.11",
-                "disablesDone/s": "0.62",
-                "disablesReceived/s": "1.10",
-                "energyGained/s": "3.99",
-                "energyUsed/s": "2.94",
-                "abilityUses/s": "1.07"
+                "battlerites": [
+                    "Cleave",
+                    "Devotion",
+                    "Initiation",
+                    "Vindicator",
+                    null
+                ],
+                "average": {
+                    "score/s": "11.78",
+                    "damageDone/s": "4.53",
+                    "damageReceived/s": "5.78",
+                    "healingDone/s": "6.62",
+                    "healingReceived/s": "3.11",
+                    "disablesDone/s": "0.62",
+                    "disablesReceived/s": "1.10",
+                    "energyGained/s": "3.99",
+                    "energyUsed/s": "2.94",
+                    "abilityUses/s": "1.07"
+                },
+                "total": {
+                    "score": 8314,
+                    "damageDone": 3200,
+                    "damageReceived": 4079,
+                    "healingDone": 4677,
+                    "healingReceived": 2196,
+                    "disablesDone": 435,
+                    "disablesReceived": 774,
+                    "energyGained": 2819,
+                    "energyUsed": 2075,
+                    "abilityUses": 753,
+                    "timeAlive": 706
+                }
             }
         },
         "Ivar_100": {
             "Taya": {
-                "score/s": "10.59",
-                "damageDone/s": "8.78",
-                "damageReceived/s": "5.54",
-                "healingDone/s": "1.00",
-                "healingReceived/s": "2.59",
-                "disablesDone/s": "0.81",
-                "disablesReceived/s": "1.10",
-                "energyGained/s": "3.47",
-                "energyUsed/s": "2.58",
-                "abilityUses/s": "0.96"
+                "battlerites": [
+                    "Breath of Air",
+                    "Cross Cut",
+                    "Throwing Technique",
+                    "Wind Fury",
+                    "Wind Stream"
+                ],
+                "average": {
+                    "score/s": "10.59",
+                    "damageDone/s": "8.78",
+                    "damageReceived/s": "5.54",
+                    "healingDone/s": "1.00",
+                    "healingReceived/s": "2.59",
+                    "disablesDone/s": "0.81",
+                    "disablesReceived/s": "1.10",
+                    "energyGained/s": "3.47",
+                    "energyUsed/s": "2.58",
+                    "abilityUses/s": "0.96"
+                },
+                "total": {
+                    "score": 7178,
+                    "damageDone": 5951,
+                    "damageReceived": 3757,
+                    "healingDone": 676,
+                    "healingReceived": 1753,
+                    "disablesDone": 550,
+                    "disablesReceived": 745,
+                    "energyGained": 2351,
+                    "energyUsed": 1750,
+                    "abilityUses": 648,
+                    "timeAlive": 678
+                }
             }
         }
     },
     "team_two": {
         "KlernY": {
             "Ulric": {
-                "score/s": "11.23",
-                "damageDone/s": "4.27",
-                "damageReceived/s": "6.25",
-                "healingDone/s": "6.26",
-                "healingReceived/s": "3.11",
-                "disablesDone/s": "0.69",
-                "disablesReceived/s": "1.11",
-                "energyGained/s": "3.49",
-                "energyUsed/s": "3.17",
-                "abilityUses/s": "0.90"
+                "battlerites": [
+                    "Cleave",
+                    "Holy Fire",
+                    "Holy Shackles",
+                    "Vindicator",
+                    null
+                ],
+                "average": {
+                    "score/s": "11.23",
+                    "damageDone/s": "4.27",
+                    "damageReceived/s": "6.25",
+                    "healingDone/s": "6.26",
+                    "healingReceived/s": "3.11",
+                    "disablesDone/s": "0.69",
+                    "disablesReceived/s": "1.11",
+                    "energyGained/s": "3.49",
+                    "energyUsed/s": "3.17",
+                    "abilityUses/s": "0.90"
+                },
+                "total": {
+                    "score": 7973,
+                    "damageDone": 3035,
+                    "damageReceived": 4437,
+                    "healingDone": 4447,
+                    "healingReceived": 2208,
+                    "disablesDone": 491,
+                    "disablesReceived": 787,
+                    "energyGained": 2479,
+                    "energyUsed": 2250,
+                    "abilityUses": 638,
+                    "timeAlive": 710
+                }
             }
         },
         "YourN1ghtmare-": {
             "Thorn": {
-                "score/s": "10.59",
-                "damageDone/s": "6.81",
-                "damageReceived/s": "8.87",
-                "healingDone/s": "2.38",
-                "healingReceived/s": "3.65",
-                "disablesDone/s": "1.40",
-                "disablesReceived/s": "1.47",
-                "energyGained/s": "2.77",
-                "energyUsed/s": "2.08",
-                "abilityUses/s": "0.80"
+                "battlerites": [
+                    "Critical Backlash",
+                    "Impaling Roots",
+                    "Lurker",
+                    "Neurotoxin",
+                    "Regrowth"
+                ],
+                "average": {
+                    "score/s": "10.59",
+                    "damageDone/s": "6.81",
+                    "damageReceived/s": "8.87",
+                    "healingDone/s": "2.38",
+                    "healingReceived/s": "3.65",
+                    "disablesDone/s": "1.40",
+                    "disablesReceived/s": "1.47",
+                    "energyGained/s": "2.77",
+                    "energyUsed/s": "2.08",
+                    "abilityUses/s": "0.80"
+                },
+                "total": {
+                    "score": 5985,
+                    "damageDone": 3849,
+                    "damageReceived": 5014,
+                    "healingDone": 1345,
+                    "healingReceived": 2063,
+                    "disablesDone": 789,
+                    "disablesReceived": 829,
+                    "energyGained": 1563,
+                    "energyUsed": 1175,
+                    "abilityUses": 450,
+                    "timeAlive": 565
+                }
             }
         },
         "Jurgen": {
             "Jumong": {
-                "score/s": "11.62",
-                "damageDone/s": "9.67",
-                "damageReceived/s": "5.27",
-                "healingDone/s": "0.82",
-                "healingReceived/s": "2.60",
-                "disablesDone/s": "1.13",
-                "disablesReceived/s": "1.09",
-                "energyGained/s": "4.49",
-                "energyUsed/s": "3.06",
-                "abilityUses/s": "1.04"
+                "battlerites": [
+                    "Arrow Storm",
+                    "Death Mark",
+                    "Disabling Trap",
+                    "Perfect Shot",
+                    "Trapper"
+                ],
+                "average": {
+                    "score/s": "11.62",
+                    "damageDone/s": "9.67",
+                    "damageReceived/s": "5.27",
+                    "healingDone/s": "0.82",
+                    "healingReceived/s": "2.60",
+                    "disablesDone/s": "1.13",
+                    "disablesReceived/s": "1.09",
+                    "energyGained/s": "4.49",
+                    "energyUsed/s": "3.06",
+                    "abilityUses/s": "1.04"
+                },
+                "total": {
+                    "score": 8541,
+                    "damageDone": 7106,
+                    "damageReceived": 3870,
+                    "healingDone": 604,
+                    "healingReceived": 1912,
+                    "disablesDone": 830,
+                    "disablesReceived": 798,
+                    "energyGained": 3303,
+                    "energyUsed": 2250,
+                    "abilityUses": 768,
+                    "timeAlive": 735
+                }
             }
         }
     }

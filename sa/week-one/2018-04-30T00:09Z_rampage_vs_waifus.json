@@ -228,88 +228,184 @@
     "team_one": {
         "Jonais": {
             "Blossom": {
-                "score/s": "12.34",
-                "damageDone/s": "4.81",
-                "damageReceived/s": "7.07",
-                "healingDone/s": "6.61",
-                "healingReceived/s": "3.61",
-                "disablesDone/s": "0.91",
-                "disablesReceived/s": "1.52",
-                "energyGained/s": "4.01",
-                "energyUsed/s": "1.24",
-                "abilityUses/s": "0.98"
+                "battlerites": [],
+                "average": {
+                    "score/s": "12.34",
+                    "damageDone/s": "4.81",
+                    "damageReceived/s": "7.07",
+                    "healingDone/s": "6.61",
+                    "healingReceived/s": "3.61",
+                    "disablesDone/s": "0.91",
+                    "disablesReceived/s": "1.52",
+                    "energyGained/s": "4.01",
+                    "energyUsed/s": "1.24",
+                    "abilityUses/s": "0.98"
+                },
+                "total": {
+                    "score": 4959,
+                    "damageDone": 1932,
+                    "damageReceived": 2843,
+                    "healingDone": 2657,
+                    "healingReceived": 1453,
+                    "disablesDone": 367,
+                    "disablesReceived": 613,
+                    "energyGained": 1613,
+                    "energyUsed": 500,
+                    "abilityUses": 392,
+                    "timeAlive": 402
+                }
             }
         },
         "drkzgod": {
             "Croak": {
-                "score/s": "10.99",
-                "damageDone/s": "8.17",
-                "damageReceived/s": "9.33",
-                "healingDone/s": "1.88",
-                "healingReceived/s": "3.75",
-                "disablesDone/s": "0.94",
-                "disablesReceived/s": "1.53",
-                "energyGained/s": "3.17",
-                "energyUsed/s": "2.13",
-                "abilityUses/s": "1.11"
+                "battlerites": [],
+                "average": {
+                    "score/s": "10.99",
+                    "damageDone/s": "8.17",
+                    "damageReceived/s": "9.33",
+                    "healingDone/s": "1.88",
+                    "healingReceived/s": "3.75",
+                    "disablesDone/s": "0.94",
+                    "disablesReceived/s": "1.53",
+                    "energyGained/s": "3.17",
+                    "energyUsed/s": "2.13",
+                    "abilityUses/s": "1.11"
+                },
+                "total": {
+                    "score": 3604,
+                    "damageDone": 2679,
+                    "damageReceived": 3060,
+                    "healingDone": 617,
+                    "healingReceived": 1229,
+                    "disablesDone": 308,
+                    "disablesReceived": 503,
+                    "energyGained": 1040,
+                    "energyUsed": 700,
+                    "abilityUses": 365,
+                    "timeAlive": 328
+                }
             }
         },
         "HollyWii": {
             "Ezmo": {
-                "score/s": "12.09",
-                "damageDone/s": "10.88",
-                "damageReceived/s": "5.89",
-                "healingDone/s": "0.27",
-                "healingReceived/s": "2.24",
-                "disablesDone/s": "0.94",
-                "disablesReceived/s": "0.91",
-                "energyGained/s": "5.36",
-                "energyUsed/s": "3.51",
-                "abilityUses/s": "2.12"
+                "battlerites": [],
+                "average": {
+                    "score/s": "12.09",
+                    "damageDone/s": "10.88",
+                    "damageReceived/s": "5.89",
+                    "healingDone/s": "0.27",
+                    "healingReceived/s": "2.24",
+                    "disablesDone/s": "0.94",
+                    "disablesReceived/s": "0.91",
+                    "energyGained/s": "5.36",
+                    "energyUsed/s": "3.51",
+                    "abilityUses/s": "2.12"
+                },
+                "total": {
+                    "score": 4655,
+                    "damageDone": 4189,
+                    "damageReceived": 2266,
+                    "healingDone": 104,
+                    "healingReceived": 862,
+                    "disablesDone": 362,
+                    "disablesReceived": 350,
+                    "energyGained": 2065,
+                    "energyUsed": 1350,
+                    "abilityUses": 816,
+                    "timeAlive": 385
+                }
             }
         }
     },
     "team_two": {
         "Audaz": {
             "Ashka": {
-                "score/s": "12.08",
-                "damageDone/s": "11.20",
-                "damageReceived/s": "5.14",
-                "healingDone/s": "0.00",
-                "healingReceived/s": "2.46",
-                "disablesDone/s": "0.88",
-                "disablesReceived/s": "0.72",
-                "energyGained/s": "4.23",
-                "energyUsed/s": "2.80",
-                "abilityUses/s": "1.03"
+                "battlerites": [],
+                "average": {
+                    "score/s": "12.08",
+                    "damageDone/s": "11.20",
+                    "damageReceived/s": "5.14",
+                    "healingDone/s": "0.00",
+                    "healingReceived/s": "2.46",
+                    "disablesDone/s": "0.88",
+                    "disablesReceived/s": "0.72",
+                    "energyGained/s": "4.23",
+                    "energyUsed/s": "2.80",
+                    "abilityUses/s": "1.03"
+                },
+                "total": {
+                    "score": 4964,
+                    "damageDone": 4602,
+                    "damageReceived": 2111,
+                    "healingDone": 0,
+                    "healingReceived": 1013,
+                    "disablesDone": 362,
+                    "disablesReceived": 294,
+                    "energyGained": 1740,
+                    "energyUsed": 1150,
+                    "abilityUses": 424,
+                    "timeAlive": 411
+                }
             }
         },
         "Higure": {
             "Blossom": {
-                "score/s": "13.76",
-                "damageDone/s": "4.59",
-                "damageReceived/s": "6.73",
-                "healingDone/s": "8.35",
-                "healingReceived/s": "4.06",
-                "disablesDone/s": "0.82",
-                "disablesReceived/s": "0.73",
-                "energyGained/s": "4.28",
-                "energyUsed/s": "1.42",
-                "abilityUses/s": "1.12"
+                "battlerites": [],
+                "average": {
+                    "score/s": "13.76",
+                    "damageDone/s": "4.59",
+                    "damageReceived/s": "6.73",
+                    "healingDone/s": "8.35",
+                    "healingReceived/s": "4.06",
+                    "disablesDone/s": "0.82",
+                    "disablesReceived/s": "0.73",
+                    "energyGained/s": "4.28",
+                    "energyUsed/s": "1.42",
+                    "abilityUses/s": "1.12"
+                },
+                "total": {
+                    "score": 5339,
+                    "damageDone": 1779,
+                    "damageReceived": 2612,
+                    "healingDone": 3240,
+                    "healingReceived": 1576,
+                    "disablesDone": 317,
+                    "disablesReceived": 283,
+                    "energyGained": 1662,
+                    "energyUsed": 550,
+                    "abilityUses": 436,
+                    "timeAlive": 388
+                }
             }
         },
         "Tonho": {
             "Rook": {
-                "score/s": "11.35",
-                "damageDone/s": "7.46",
-                "damageReceived/s": "7.31",
-                "healingDone/s": "1.96",
-                "healingReceived/s": "3.54",
-                "disablesDone/s": "1.92",
-                "disablesReceived/s": "1.12",
-                "energyGained/s": "3.48",
-                "energyUsed/s": "2.56",
-                "abilityUses/s": "0.96"
+                "battlerites": [],
+                "average": {
+                    "score/s": "11.35",
+                    "damageDone/s": "7.46",
+                    "damageReceived/s": "7.31",
+                    "healingDone/s": "1.96",
+                    "healingReceived/s": "3.54",
+                    "disablesDone/s": "1.92",
+                    "disablesReceived/s": "1.12",
+                    "energyGained/s": "3.48",
+                    "energyUsed/s": "2.56",
+                    "abilityUses/s": "0.96"
+                },
+                "total": {
+                    "score": 4652,
+                    "damageDone": 3060,
+                    "damageReceived": 2999,
+                    "healingDone": 804,
+                    "healingReceived": 1450,
+                    "disablesDone": 787,
+                    "disablesReceived": 460,
+                    "energyGained": 1428,
+                    "energyUsed": 1050,
+                    "abilityUses": 395,
+                    "timeAlive": 410
+                }
             }
         }
     }
