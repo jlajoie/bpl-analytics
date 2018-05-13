@@ -374,10 +374,10 @@
             "Ulric": {
                 "battlerites": [
                     "Devotion",
+                    "Divine Protection",
                     "Holy Shackles",
                     "Initiation",
-                    "Vindicator",
-                    null
+                    "Vindicator"
                 ],
                 "average": {
                     "score/s": "10.55",

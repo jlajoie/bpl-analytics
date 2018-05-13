@@ -227,9 +227,9 @@
                 "battlerites": [
                     "Cleave",
                     "Devotion",
+                    "Divine Protection",
                     "Enchanted Weapon",
-                    "Vindicator",
-                    null
+                    "Vindicator"
                 ],
                 "average": {
                     "score/s": "8.59",

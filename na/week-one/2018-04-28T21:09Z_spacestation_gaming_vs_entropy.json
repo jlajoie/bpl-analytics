@@ -178,9 +178,9 @@
                 "battlerites": [
                     "Cleave",
                     "Devotion",
+                    "Divine Protection",
                     "Holy Shackles",
-                    "Vindicator",
-                    null
+                    "Vindicator"
                 ],
                 "average": {
                     "score/s": "13.51",

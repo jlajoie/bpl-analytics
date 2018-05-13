@@ -258,9 +258,9 @@
                 "battlerites": [
                     "Cleave",
                     "Devotion",
+                    "Divine Protection",
                     "Penitence",
-                    "Vindicator",
-                    null
+                    "Vindicator"
                 ],
                 "average": {
                     "score/s": "13.17",
@@ -439,10 +439,10 @@
             "Ulric": {
                 "battlerites": [
                     "Cleave",
+                    "Divine Protection",
                     "Holy Shackles",
                     "Penitence",
-                    "Vindicator",
-                    null
+                    "Vindicator"
                 ],
                 "average": {
                     "score/s": "11.61",
