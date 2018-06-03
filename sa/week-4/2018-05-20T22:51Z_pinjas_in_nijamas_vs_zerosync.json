@@ -1,0 +1,393 @@
+{
+    "telemetry_url": "https://cdn.developer.battlerite.com/stunlock-studios-battlerite/global/2018/05/20/22/51/46c5370e-5c80-11e8-b303-0a58646008c0-telemetry.json",
+    "match_duration": 422,
+    "average_round_length": 84.4,
+    "average_round_first_death": 68.79,
+    "round_wins": {
+        "team_one": 5,
+        "team_two": 0
+    },
+    "comebacks": 0,
+    "crosskills": 0,
+    "rounds": {
+        "1": {
+            "winning_team": "team_one",
+            "duration": 119,
+            "orbs": {
+                "total": 4,
+                "team_one": 3,
+                "team_two": 1,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 11,
+                    "team_one": 3,
+                    "team_two": 8
+                },
+                "health": {
+                    "total": 14,
+                    "team_one": 6,
+                    "team_two": 8
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "2": {
+            "winning_team": "team_one",
+            "duration": 106,
+            "orbs": {
+                "total": 4,
+                "team_one": 3,
+                "team_two": 1,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 6,
+                    "team_one": 1,
+                    "team_two": 5
+                },
+                "health": {
+                    "total": 12,
+                    "team_one": 4,
+                    "team_two": 8
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "3": {
+            "winning_team": "team_one",
+            "duration": 83,
+            "orbs": {
+                "total": 3,
+                "team_one": 2,
+                "team_two": 1,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 4,
+                    "team_one": 1,
+                    "team_two": 3
+                },
+                "health": {
+                    "total": 7,
+                    "team_one": 3,
+                    "team_two": 4
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "4": {
+            "winning_team": "team_one",
+            "duration": 63,
+            "orbs": {
+                "total": 2,
+                "team_one": 1,
+                "team_two": 1,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 1,
+                    "team_two": 1
+                },
+                "health": {
+                    "total": 6,
+                    "team_one": 3,
+                    "team_two": 3
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "5": {
+            "winning_team": "team_one",
+            "duration": 51,
+            "orbs": {
+                "total": 1,
+                "team_one": 1,
+                "team_two": 0,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 3,
+                    "team_one": 0,
+                    "team_two": 3
+                },
+                "health": {
+                    "total": 10,
+                    "team_one": 9,
+                    "team_two": 1
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        }
+    },
+    "orbs": {
+        "total": 14,
+        "team_one": 10,
+        "team_two": 4,
+        "first": {
+            "wins": 3,
+            "losses": 2,
+            "win_percentage": "60.00%",
+            "team_one": 3,
+            "team_two": 2
+        }
+    },
+    "shards": {
+        "health": {
+            "total": 49,
+            "team_one": 25,
+            "team_two": 24
+        },
+        "energy": {
+            "total": 26,
+            "team_one": 6,
+            "team_two": 20
+        }
+    },
+    "team_one": {
+        "matsufrg": {
+            "Thorn": {
+                "battlerites": [
+                    "Creeping Roots",
+                    "Critical Backlash",
+                    "Fearsome Uprootal",
+                    "Neurotoxin",
+                    "Sinister Sap"
+                ],
+                "average": {
+                    "score/s": "13.90",
+                    "damageDone/s": "8.97",
+                    "damageReceived/s": "7.88",
+                    "healingDone/s": "2.61",
+                    "healingReceived/s": "5.00",
+                    "disablesDone/s": "2.31",
+                    "disablesReceived/s": "1.06",
+                    "energyGained/s": "3.41",
+                    "energyUsed/s": "2.49",
+                    "abilityUses/s": "1.12"
+                },
+                "total": {
+                    "score": 5866,
+                    "damageDone": 3786,
+                    "damageReceived": 3324,
+                    "healingDone": 1102,
+                    "healingReceived": 2110,
+                    "disablesDone": 976,
+                    "disablesReceived": 446,
+                    "energyGained": 1438,
+                    "energyUsed": 1050,
+                    "abilityUses": 473,
+                    "timeAlive": 422
+                }
+            }
+        },
+        "IgorCabra": {
+            "Oldur": {
+                "battlerites": [
+                    "Dehydration",
+                    "Recreate",
+                    "Renew",
+                    "Sandstorm",
+                    "Shared Fate"
+                ],
+                "average": {
+                    "score/s": "10.52",
+                    "damageDone/s": "6.85",
+                    "damageReceived/s": "4.05",
+                    "healingDone/s": "3.25",
+                    "healingReceived/s": "3.08",
+                    "disablesDone/s": "0.42",
+                    "disablesReceived/s": "0.71",
+                    "energyGained/s": "4.09",
+                    "energyUsed/s": "3.55",
+                    "abilityUses/s": "1.13"
+                },
+                "total": {
+                    "score": 4440,
+                    "damageDone": 2890,
+                    "damageReceived": 1708,
+                    "healingDone": 1371,
+                    "healingReceived": 1299,
+                    "disablesDone": 179,
+                    "disablesReceived": 300,
+                    "energyGained": 1727,
+                    "energyUsed": 1500,
+                    "abilityUses": 478,
+                    "timeAlive": 422
+                }
+            }
+        },
+        "youtube.com/c/cr7dabaixada": {
+            "Blossom": {
+                "battlerites": [
+                    "Hop and Skip!",
+                    "Kindhearted",
+                    "Nature's Cycle",
+                    "Pollen",
+                    "Weakening Pitch"
+                ],
+                "average": {
+                    "score/s": "10.80",
+                    "damageDone/s": "3.83",
+                    "damageReceived/s": "4.03",
+                    "healingDone/s": "6.12",
+                    "healingReceived/s": "2.85",
+                    "disablesDone/s": "0.86",
+                    "disablesReceived/s": "0.77",
+                    "energyGained/s": "2.65",
+                    "energyUsed/s": "0.71",
+                    "abilityUses/s": "0.86"
+                },
+                "total": {
+                    "score": 4559,
+                    "damageDone": 1615,
+                    "damageReceived": 1700,
+                    "healingDone": 2581,
+                    "healingReceived": 1201,
+                    "disablesDone": 363,
+                    "disablesReceived": 323,
+                    "energyGained": 1119,
+                    "energyUsed": 300,
+                    "abilityUses": 363,
+                    "timeAlive": 422
+                }
+            }
+        }
+    },
+    "team_two": {
+        "FuzarkeR": {
+            "Freya": {
+                "battlerites": [
+                    "Electric Conduction",
+                    "Lightning Rod",
+                    "Overcharge",
+                    "Rolling Thunder",
+                    "Thunderbolt"
+                ],
+                "average": {
+                    "score/s": "10.28",
+                    "damageDone/s": "6.68",
+                    "damageReceived/s": "7.89",
+                    "healingDone/s": "2.07",
+                    "healingReceived/s": "1.82",
+                    "disablesDone/s": "1.54",
+                    "disablesReceived/s": "1.31",
+                    "energyGained/s": "2.90",
+                    "energyUsed/s": "2.21",
+                    "abilityUses/s": "0.86"
+                },
+                "total": {
+                    "score": 3835,
+                    "damageDone": 2491,
+                    "damageReceived": 2944,
+                    "healingDone": 771,
+                    "healingReceived": 677,
+                    "disablesDone": 573,
+                    "disablesReceived": 488,
+                    "energyGained": 1080,
+                    "energyUsed": 825,
+                    "abilityUses": 320,
+                    "timeAlive": 373
+                }
+            }
+        },
+        "DarkFenix": {
+            "Ashka": {
+                "battlerites": [
+                    "Conflagration",
+                    "Heat",
+                    "Inferno",
+                    "Inspiration",
+                    "Magma"
+                ],
+                "average": {
+                    "score/s": "9.84",
+                    "damageDone/s": "8.99",
+                    "damageReceived/s": "5.29",
+                    "healingDone/s": "0.08",
+                    "healingReceived/s": "1.76",
+                    "disablesDone/s": "0.76",
+                    "disablesReceived/s": "1.08",
+                    "energyGained/s": "3.09",
+                    "energyUsed/s": "2.49",
+                    "abilityUses/s": "0.88"
+                },
+                "total": {
+                    "score": 3846,
+                    "damageDone": 3517,
+                    "damageReceived": 2070,
+                    "healingDone": 30,
+                    "healingReceived": 687,
+                    "disablesDone": 299,
+                    "disablesReceived": 422,
+                    "energyGained": 1210,
+                    "energyUsed": 975,
+                    "abilityUses": 345,
+                    "timeAlive": 391
+                }
+            }
+        },
+        "dward0": {
+            "Zander": {
+                "battlerites": [
+                    "Around the World",
+                    "Awestruck",
+                    "Lead Astray",
+                    "Stacked Deck",
+                    "The Big Stage"
+                ],
+                "average": {
+                    "score/s": "9.83",
+                    "damageDone/s": "4.20",
+                    "damageReceived/s": "6.14",
+                    "healingDone/s": "5.12",
+                    "healingReceived/s": "2.54",
+                    "disablesDone/s": "0.51",
+                    "disablesReceived/s": "1.58",
+                    "energyGained/s": "3.82",
+                    "energyUsed/s": "2.80",
+                    "abilityUses/s": "1.18"
+                },
+                "total": {
+                    "score": 3776,
+                    "damageDone": 1611,
+                    "damageReceived": 2357,
+                    "healingDone": 1967,
+                    "healingReceived": 975,
+                    "disablesDone": 197,
+                    "disablesReceived": 608,
+                    "energyGained": 1467,
+                    "energyUsed": 1075,
+                    "abilityUses": 452,
+                    "timeAlive": 384
+                }
+            }
+        }
+    }
+}

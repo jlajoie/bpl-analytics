@@ -1,0 +1,447 @@
+{
+    "telemetry_url": "https://cdn.developer.battlerite.com/stunlock-studios-battlerite/global/2018/05/27/20/29/b86b1201-61ec-11e8-97c5-0a5864600d04-telemetry.json",
+    "match_duration": 965,
+    "average_round_length": 137.85714285714286,
+    "average_round_first_death": 117.41,
+    "round_wins": {
+        "team_one": 2,
+        "team_two": 5
+    },
+    "comebacks": 0,
+    "crosskills": 0,
+    "rounds": {
+        "1": {
+            "winning_team": "team_two",
+            "duration": 113,
+            "orbs": {
+                "total": 4,
+                "team_one": 0,
+                "team_two": 4,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 4,
+                    "team_one": 0,
+                    "team_two": 4
+                },
+                "health": {
+                    "total": 12,
+                    "team_one": 0,
+                    "team_two": 12
+                }
+            },
+            "death_order": [
+                1,
+                1,
+                1
+            ]
+        },
+        "2": {
+            "winning_team": "team_one",
+            "duration": 128,
+            "orbs": {
+                "total": 5,
+                "team_one": 1,
+                "team_two": 4,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 0,
+                    "team_two": 2
+                },
+                "health": {
+                    "total": 12,
+                    "team_one": 2,
+                    "team_two": 10
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "3": {
+            "winning_team": "team_two",
+            "duration": 77,
+            "orbs": {
+                "total": 2,
+                "team_one": 0,
+                "team_two": 2,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 2,
+                    "team_one": 2,
+                    "team_two": 0
+                },
+                "health": {
+                    "total": 4,
+                    "team_one": 0,
+                    "team_two": 4
+                }
+            },
+            "death_order": [
+                1,
+                1,
+                1
+            ]
+        },
+        "4": {
+            "winning_team": "team_two",
+            "duration": 138,
+            "orbs": {
+                "total": 5,
+                "team_one": 0,
+                "team_two": 5,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 8,
+                    "team_one": 5,
+                    "team_two": 3
+                },
+                "health": {
+                    "total": 14,
+                    "team_one": 4,
+                    "team_two": 10
+                }
+            },
+            "death_order": [
+                1,
+                1,
+                1
+            ]
+        },
+        "5": {
+            "winning_team": "team_one",
+            "duration": 161,
+            "orbs": {
+                "total": 7,
+                "team_one": 3,
+                "team_two": 4,
+                "first": "team_one"
+            },
+            "shards": {
+                "energy": {
+                    "total": 8,
+                    "team_one": 6,
+                    "team_two": 2
+                },
+                "health": {
+                    "total": 18,
+                    "team_one": 5,
+                    "team_two": 13
+                }
+            },
+            "death_order": [
+                2,
+                2,
+                2
+            ]
+        },
+        "6": {
+            "winning_team": "team_two",
+            "duration": 180,
+            "orbs": {
+                "total": 7,
+                "team_one": 2,
+                "team_two": 5,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 12,
+                    "team_one": 7,
+                    "team_two": 5
+                },
+                "health": {
+                    "total": 22,
+                    "team_one": 5,
+                    "team_two": 17
+                }
+            },
+            "death_order": [
+                1,
+                1,
+                1
+            ]
+        },
+        "7": {
+            "winning_team": "team_two",
+            "duration": 168,
+            "orbs": {
+                "total": 6,
+                "team_one": 1,
+                "team_two": 5,
+                "first": "team_two"
+            },
+            "shards": {
+                "energy": {
+                    "total": 6,
+                    "team_one": 2,
+                    "team_two": 4
+                },
+                "health": {
+                    "total": 20,
+                    "team_one": 1,
+                    "team_two": 19
+                }
+            },
+            "death_order": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    "orbs": {
+        "total": 36,
+        "team_one": 7,
+        "team_two": 29,
+        "first": {
+            "wins": 6,
+            "losses": 1,
+            "win_percentage": "85.71%",
+            "team_one": 1,
+            "team_two": 6
+        }
+    },
+    "shards": {
+        "health": {
+            "total": 102,
+            "team_one": 17,
+            "team_two": 85
+        },
+        "energy": {
+            "total": 42,
+            "team_one": 22,
+            "team_two": 20
+        }
+    },
+    "team_one": {
+        "Hotbiscuit": {
+            "Alysia": {
+                "battlerites": [
+                    "Figure Skating",
+                    "Ice Breaker",
+                    "Piercing Cold",
+                    "Twirl",
+                    "Vandalism"
+                ],
+                "average": {
+                    "score/s": "8.60",
+                    "damageDone/s": "7.59",
+                    "damageReceived/s": "4.32",
+                    "healingDone/s": "0.33",
+                    "healingReceived/s": "2.33",
+                    "disablesDone/s": "0.68",
+                    "disablesReceived/s": "0.84",
+                    "energyGained/s": "2.41",
+                    "energyUsed/s": "1.94",
+                    "abilityUses/s": "0.94"
+                },
+                "total": {
+                    "score": 7859,
+                    "damageDone": 6941,
+                    "damageReceived": 3953,
+                    "healingDone": 299,
+                    "healingReceived": 2131,
+                    "disablesDone": 619,
+                    "disablesReceived": 771,
+                    "energyGained": 2200,
+                    "energyUsed": 1775,
+                    "abilityUses": 861,
+                    "timeAlive": 914
+                }
+            }
+        },
+        "Joltz": {
+            "Oldur": {
+                "battlerites": [
+                    "Dehydration",
+                    "Recreate",
+                    "Renew",
+                    "Shared Fate",
+                    "Time Walker"
+                ],
+                "average": {
+                    "score/s": "10.01",
+                    "damageDone/s": "4.02",
+                    "damageReceived/s": "3.36",
+                    "healingDone/s": "5.48",
+                    "healingReceived/s": "1.75",
+                    "disablesDone/s": "0.51",
+                    "disablesReceived/s": "0.76",
+                    "energyGained/s": "3.17",
+                    "energyUsed/s": "2.27",
+                    "abilityUses/s": "0.98"
+                },
+                "total": {
+                    "score": 9138,
+                    "damageDone": 3670,
+                    "damageReceived": 3072,
+                    "healingDone": 5006,
+                    "healingReceived": 1595,
+                    "disablesDone": 462,
+                    "disablesReceived": 694,
+                    "energyGained": 2896,
+                    "energyUsed": 2075,
+                    "abilityUses": 895,
+                    "timeAlive": 913
+                }
+            }
+        },
+        "Rutha": {
+            "Rook": {
+                "battlerites": [
+                    "Crag",
+                    "Crumble",
+                    "Frenzy",
+                    "Giant",
+                    "Weapon Break"
+                ],
+                "average": {
+                    "score/s": "9.33",
+                    "damageDone/s": "6.00",
+                    "damageReceived/s": "6.39",
+                    "healingDone/s": "1.78",
+                    "healingReceived/s": "3.18",
+                    "disablesDone/s": "1.55",
+                    "disablesReceived/s": "1.30",
+                    "energyGained/s": "2.55",
+                    "energyUsed/s": "1.96",
+                    "abilityUses/s": "0.74"
+                },
+                "total": {
+                    "score": 8313,
+                    "damageDone": 5348,
+                    "damageReceived": 5690,
+                    "healingDone": 1584,
+                    "healingReceived": 2835,
+                    "disablesDone": 1380,
+                    "disablesReceived": 1161,
+                    "energyGained": 2275,
+                    "energyUsed": 1750,
+                    "abilityUses": 662,
+                    "timeAlive": 891
+                }
+            }
+        }
+    },
+    "team_two": {
+        "KlernY": {
+            "Lucie": {
+                "battlerites": [
+                    "Alacrity",
+                    "Blast Shield",
+                    "Companion Potion",
+                    "Hysteria",
+                    "Potency"
+                ],
+                "average": {
+                    "score/s": "9.68",
+                    "damageDone/s": "2.61",
+                    "damageReceived/s": "2.57",
+                    "healingDone/s": "6.21",
+                    "healingReceived/s": "1.64",
+                    "disablesDone/s": "0.86",
+                    "disablesReceived/s": "0.46",
+                    "energyGained/s": "2.69",
+                    "energyUsed/s": "2.40",
+                    "abilityUses/s": "0.83"
+                },
+                "total": {
+                    "score": 9268,
+                    "damageDone": 2498,
+                    "damageReceived": 2455,
+                    "healingDone": 5942,
+                    "healingReceived": 1568,
+                    "disablesDone": 827,
+                    "disablesReceived": 436,
+                    "energyGained": 2572,
+                    "energyUsed": 2300,
+                    "abilityUses": 790,
+                    "timeAlive": 957
+                }
+            }
+        },
+        "YourN1ghtmare-": {
+            "Rook": {
+                "battlerites": [
+                    "Crumble",
+                    "Endurance",
+                    "Frenzy",
+                    "Giant",
+                    "Weapon Break"
+                ],
+                "average": {
+                    "score/s": "10.07",
+                    "damageDone/s": "6.17",
+                    "damageReceived/s": "8.72",
+                    "healingDone/s": "2.88",
+                    "healingReceived/s": "5.39",
+                    "disablesDone/s": "1.01",
+                    "disablesReceived/s": "1.44",
+                    "energyGained/s": "3.10",
+                    "energyUsed/s": "2.14",
+                    "abilityUses/s": "0.92"
+                },
+                "total": {
+                    "score": 9415,
+                    "damageDone": 5771,
+                    "damageReceived": 8150,
+                    "healingDone": 2692,
+                    "healingReceived": 5041,
+                    "disablesDone": 948,
+                    "disablesReceived": 1342,
+                    "energyGained": 2896,
+                    "energyUsed": 2000,
+                    "abilityUses": 860,
+                    "timeAlive": 935
+                }
+            }
+        },
+        "Jurgen": {
+            "Jumong": {
+                "battlerites": [
+                    "Crippling Hail",
+                    "Death Mark",
+                    "Disabling Trap",
+                    "Perfect Shot",
+                    "Trapper"
+                ],
+                "average": {
+                    "score/s": "8.37",
+                    "damageDone/s": "7.07",
+                    "damageReceived/s": "4.76",
+                    "healingDone/s": "0.41",
+                    "healingReceived/s": "3.60",
+                    "disablesDone/s": "0.89",
+                    "disablesReceived/s": "0.71",
+                    "energyGained/s": "3.76",
+                    "energyUsed/s": "2.94",
+                    "abilityUses/s": "0.96"
+                },
+                "total": {
+                    "score": 8035,
+                    "damageDone": 6787,
+                    "damageReceived": 4574,
+                    "healingDone": 395,
+                    "healingReceived": 3456,
+                    "disablesDone": 851,
+                    "disablesReceived": 683,
+                    "energyGained": 3605,
+                    "energyUsed": 2825,
+                    "abilityUses": 918,
+                    "timeAlive": 960
+                }
+            }
+        }
+    }
+}
